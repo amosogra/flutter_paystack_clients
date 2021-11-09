@@ -1,0 +1,18 @@
+name: flutter_paystack_client
+description: Flutter Paystack payment plugin with support for Web, Android and iOS
+version: 0.1.2
+homepage: https://github.com/djade007/flutter_paystack_client
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  js: ^0.6.3
+  flutter_paystack: ^1.0.5+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
