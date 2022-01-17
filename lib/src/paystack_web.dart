@@ -2,7 +2,6 @@ import 'dart:async';
 
 import 'package:flutter_paystack/flutter_paystack.dart';
 
-import '../flutter_paystack_client.dart';
 import 'js/js_stub.dart' if (dart.library.js) 'package:js/js.dart';
 import 'js/paystack_stub.dart' if (dart.library.js) 'js/paystack_js.dart';
 
